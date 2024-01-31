@@ -61,34 +61,34 @@ In the future, we want to provider additional ressources for content creators :
 
 ## Demo Roadmap
 
-| Feature & Status   | Steps                                                                                                                                                                                                             |
+| Feature & Status      | Steps                                                                                                                                                                                                             |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [x] CMS Source URL | [x] Jekyll (follow this[guide](https://blog.theresilient.dev/jekyll-blog-to-flutter-news-application-part-1-introduction#heading-2-communication-between-the-application-and-the-website-via-jekyll-json-posts-api)) |
-|                    | [x] WordPress (ensure[WordPress REST API](https://developer.wordpress.org/rest-api/reference/) is activated and better with access no restricted to users - for authors informations)                               |
-|                    | [ ] Activate / Deactivate site preload   |
-|                    | [ ] URL & CMS Data Source Validation     |
+| [x] CMS Source URL    | [x] Jekyll (follow this[guide](https://blog.theresilient.dev/jekyll-blog-to-flutter-news-application-part-1-introduction#heading-2-communication-between-the-application-and-the-website-via-jekyll-json-posts-api)) |
+|                       | [x] WordPress (ensure[WordPress REST API](https://developer.wordpress.org/rest-api/reference/) is activated and better with access no restricted to users - for authors informations)                               |
+|                       | [ ] Activate / Deactivate site preload   |
+|                       | [ ] URL & CMS Data Source Validation     |
 
 ## Engine Roadmap
 
-| Feature & Status               | Steps                       |
-| ------------------------------ | --------------------------- |
-| [ ] State management           | [x] Riverpod                |
-|                                | [x] Flutter Bloc            |
-| [x] Local Storage              | [x] SharedPreferences       |
-|                                | [x] SecureSharedPreferences |
-| [ ] Theming                    | [x] Light Theme             |
-| [ ]                            | [ ] Dark Theme              |
-| [ ] Internationalization      | [x] English                 |
-|                                | [ ] French                  |
-| [ ] Mobile Ads                 |                             |
-| [ ] Template UIs               |                             |
-| [ ] Analytics                  |                             |
-| [ ] Authentication             |                             |
-| [ ] Subscription to newsletter |                             |
-| [ ] Push notifications         |                             |
-| [ ] Deep links                 |                             |
-| [ ] In App purchases           |                             |
-| [ ] Permissions management     |                             |
+| Feature & Status                 | Steps                                          |
+| ------------------------------   | ---------------------------                    |
+| [ ] State management             | [x] Riverpod                                   |
+|                                  | [x] Flutter Bloc                               |
+| [x] Local Storage                | [x] SharedPreferences                          |
+|                                  | [x] SecureSharedPreferences                    |
+| [ ] Theming                      | [x] Light Theme                                |
+| [ ]                              | [ ] Dark Theme                                 |
+| [ ] Internationalization         | [x] English                                    |
+|                                  | [ ] French                                     |
+| [ ] Mobile Ads                   |                                                |
+| [ ] Template UIs                 |                                                |
+| [ ] Analytics                    |                                                |
+| [ ] Authentication               |                                                |
+| [ ] Subscription to newsletter   |                                                |
+| [ ] Push notifications           |                                                |
+| [ ] Deep links                   |                                                |
+| [ ] In App purchases             |                                                |
+| [ ] Permissions management       |                                                |
 
 ## Disclaimer
 

@@ -65,8 +65,12 @@ In the future, we want to provider additional ressources for content creators :
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [x] CMS Source URL    | [x] Jekyll (follow this[guide](https://blog.theresilient.dev/jekyll-blog-to-flutter-news-application-part-1-introduction#heading-2-communication-between-the-application-and-the-website-via-jekyll-json-posts-api)) |
 |                       | [x] WordPress (ensure[WordPress REST API](https://developer.wordpress.org/rest-api/reference/) is activated and better with access no restricted to users - for authors informations)                               |
-|                       | [ ] Activate / Deactivate site preload   |
-|                       | [ ] URL & CMS Data Source Validation     |
+|                       | [x] Activate / Deactivate site preload               |
+|                       | [x] URL & CMS Data Source Validation                 |
+|                       | [ ] Provide details about preload (data, and percent)|
+|                       | [ ] Adapt Layout to devices layouts                  |
+|                       | [ ] Support multiple languages                       |
+|                       | [ ] Improve Dark Theme                               |
 
 ## Engine Roadmap
 

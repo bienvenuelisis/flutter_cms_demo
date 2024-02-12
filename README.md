@@ -61,38 +61,50 @@ In the future, we want to provider additional ressources for content creators :
 
 ## Demo Roadmap
 
-| Feature & Status      | Steps                                                                                                                                                                                                             |
-| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [x] CMS Source URL    | [x] Jekyll (follow this[guide](https://blog.theresilient.dev/jekyll-blog-to-flutter-news-application-part-1-introduction#heading-2-communication-between-the-application-and-the-website-via-jekyll-json-posts-api)) |
-|                       | [x] WordPress (ensure[WordPress REST API](https://developer.wordpress.org/rest-api/reference/) is activated and better with access no restricted to users - for authors informations)                               |
-|                       | [x] Activate / Deactivate site preload               |
-|                       | [x] URL & CMS Data Source Validation                 |
-|                       | [ ] Provide details about preload (data, and percent)|
-|                       | [ ] Adapt Layout to devices layouts                  |
-|                       | [ ] Support multiple languages                       |
-|                       | [ ] Improve Dark Theme                               |
+| Feature & Status   | Steps                                                                                                                                                                                                               |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [x] CMS Source URL | [x] Jekyll (follow this [guide](https://blog.theresilient.dev/jekyll-blog-to-flutter-news-application-part-1-introduction#heading-2-communication-between-the-application-and-the-website-via-jekyll-json-posts-api)) |
+|                    | [x] WordPress (ensure[WordPress REST API](https://developer.wordpress.org/rest-api/reference/) is activated and better with access no restricted to users - for authors informations)                                 |
+|                    | [x] Activate / Deactivate site preload |
+|                    | [x] URL & CMS Data Source Validation |
+|                    | [ ] Deploy Mobile App Demos to Stores |
+|                    | [ ] Provide details about preload (data, and percent) |
+|                    | [ ] Show case how to use the app on first launch. |
+|                    | [ ] Feedback add, to help users report bugs during Beta. |
+|                    | [ ] Support RSS Feeds |
+|                    | [ ] Support Blogger blogs |
+|                    | [ ] Support Ghost blogs |
+|                    | [ ] French internationalization |
+|                    | [ ] Rewrite WordPress data Source (work offline first) |
+|                    | [ ] Parse article contents to node and use custom html node parser for each  |
+|                    | [ ] Resolve CORS errors (for images) when running on Web |
+|                    | [ ] Adapt Layout to devices layouts |
+|                    | [ ] Support multiple languages |
+|                    | [ ] Support multiple UIs layouts |
+|                    | [ ] Configure UIs colors palettes |
+|                    | [ ] Improve Dark Theme |
 
 ## Engine Roadmap
 
-| Feature & Status                 | Steps                                          |
-| ------------------------------   | ---------------------------                    |
-| [ ] State management             | [x] Riverpod                                   |
-|                                  | [x] Flutter Bloc                               |
-| [x] Local Storage                | [x] SharedPreferences                          |
-|                                  | [x] SecureSharedPreferences                    |
-| [ ] Theming                      | [x] Light Theme                                |
-| [ ]                              | [ ] Dark Theme                                 |
-| [ ] Internationalization         | [x] English                                    |
-|                                  | [ ] French                                     |
-| [ ] Mobile Ads                   |                                                |
-| [ ] Template UIs                 |                                                |
-| [ ] Analytics                    |                                                |
-| [ ] Authentication               |                                                |
-| [ ] Subscription to newsletter   |                                                |
-| [ ] Push notifications           |                                                |
-| [ ] Deep links                   |                                                |
-| [ ] In App purchases             |                                                |
-| [ ] Permissions management       |                                                |
+| Feature & Status               | Steps                       |
+| ------------------------------ | --------------------------- |
+| [ ] State management           | [x] Riverpod                |
+|                                | [x] Flutter Bloc            |
+| [x] Local Storage              | [x] SharedPreferences       |
+|                                | [x] SecureSharedPreferences |
+| [ ] Theming                    | [x] Light Theme             |
+| [ ]                            | [ ] Dark Theme              |
+| [ ] Internationalization      | [x] English                 |
+|                                | [ ] French                  |
+| [ ] Mobile Ads                 |                             |
+| [ ] Template UIs               |                             |
+| [ ] Analytics                  |                             |
+| [ ] Authentication             |                             |
+| [ ] Subscription to newsletter |                             |
+| [ ] Push notifications         |                             |
+| [ ] Deep links                 |                             |
+| [ ] In App purchases           |                             |
+| [ ] Permissions management     |                             |
 
 ## Disclaimer
 

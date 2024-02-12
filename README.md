@@ -67,15 +67,14 @@ In the future, we want to provider additional ressources for content creators :
 |                    | [x] WordPress (ensure[WordPress REST API](https://developer.wordpress.org/rest-api/reference/) is activated and better with access no restricted to users - for authors informations)                                 |
 |                    | [x] Activate / Deactivate site preload |
 |                    | [x] URL & CMS Data Source Validation |
+|                    | [x] Support Blogger blogs |
+|                    | [x] Support Ghost blogs |
+|                    | [x] Rewrite WordPress data Source (work offline first) |
 |                    | [ ] Deploy Mobile App Demos to Stores |
 |                    | [ ] Provide details about preload (data, and percent) |
 |                    | [ ] Show case how to use the app on first launch. |
 |                    | [ ] Feedback add, to help users report bugs during Beta. |
-|                    | [ ] Support RSS Feeds |
-|                    | [ ] Support Blogger blogs |
-|                    | [ ] Support Ghost blogs |
 |                    | [ ] French internationalization |
-|                    | [ ] Rewrite WordPress data Source (work offline first) |
 |                    | [ ] Parse article contents to node and use custom html node parser for each  |
 |                    | [ ] Resolve CORS errors (for images) when running on Web |
 |                    | [ ] Adapt Layout to devices layouts |

@@ -7,8 +7,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "319b62aa4d7b92ddd4e86a4e58aea4a2
 "assets/AssetManifest.bin.json": "0050e6f41a1c83eddcd3f13b3394415b",
 "assets/AssetManifest.json": "ed830b5e5fbceefbc97de2514719f3e7",
 "assets/FontManifest.json": "8cc340c9cbbbcee78366c3240cca2113",
-"assets/fonts/MaterialIcons-Regular.otf": "df99b49bb3f2c0f06361b705953b8a89",
-"assets/NOTICES": "4719d78faa21c9eb8cc0973bf6fa59c0",
+"assets/fonts/MaterialIcons-Regular.otf": "304043a0469b97083edbfb776e9e7866",
+"assets/NOTICES": "3f72d3b91a718b9f2b20b02e52576d76",
 "assets/packages/app_ui/assets/fonts/Montserrat-Medium.ttf": "735cdc3ba75463c090ce8e8a2662ecbd",
 "assets/packages/app_ui/assets/fonts/NotoSansDisplay-Regular.ttf": "5182edb2a96aa973ef78b098afcd8780",
 "assets/packages/app_ui/assets/fonts/NotoSansDisplay-SemiBold.ttf": "c74ff896adfed513fa90d2b90fbea812",
@@ -58,9 +58,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "319b62aa4d7b92ddd4e86a4e58aea4a2
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "048273cd2e35f0e54c8c8d3ae7b02ca7",
-"/": "048273cd2e35f0e54c8c8d3ae7b02ca7",
-"main.dart.js": "25622558a448bbe8827f1c633cbd7212",
+"index.html": "d8cf3c01d25b47a65d0de3cb7d365b9e",
+"/": "d8cf3c01d25b47a65d0de3cb7d365b9e",
+"main.dart.js": "3234999e5c5ec31b57140faab7b8614b",
 "manifest.json": "86f1f55ea1ce36523fa52181a1b52093",
 "version.json": "d122f02e1258e39f2ca10bddb2b0eb2e"};
 // The application shell files that are downloaded before a service worker can

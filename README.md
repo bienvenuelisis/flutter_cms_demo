@@ -70,8 +70,8 @@ In the future, we want to provider additional ressources for content creators :
 |                    | [x] Support Blogger blogs |
 |                    | [x] Support Ghost blogs |
 |                    | [x] Rewrite WordPress data Source (work offline first) |
+|                    | [x] Provide details about preload (data, and percent) |
 |                    | [ ] Deploy Mobile App Demos to Stores |
-|                    | [ ] Provide details about preload (data, and percent) |
 |                    | [ ] Show case how to use the app on first launch. |
 |                    | [ ] Feedback add, to help users report bugs during Beta. |
 |                    | [ ] French internationalization |

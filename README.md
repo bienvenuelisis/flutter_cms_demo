@@ -1,5 +1,7 @@
 # Flutter CMS Demo
 
+> Lire la documentation en [français](https://github.com/bienvenuelisis/flutter_cms_demo/blob/main/README-FR.md).
+
 Demo project that showcase how you can build your news mobile app from your blog in minimal time.
 
 ## Goals
@@ -48,7 +50,7 @@ Some data sources require additional configurations or resources to be taken int
 
 **No information that is not already public and open to all can be retrieved by our content converters.**
 
-**None of the authentication data (and overall information) you provide is sent to our servers. They can be stored locally (([with a hash by WebCrypto](https://pub.dev/packages/flutter_secure_storage#configure-web-version))), so you go to the last site you configured at launch.**
+**None of the authentication data (and overall information) you provide is sent to our servers. They can be stored locally ([with a hash by WebCrypto](https://pub.dev/packages/flutter_secure_storage#configure-web-version)), so you go to the last site you configured at launch.**
 
 * JEKYLL: Jekyll sites do not offer an access point to all their resources via a Rest API. But this behavior can be _mocked_. More details in [this article](<https://blog.theresilient.dev/jekyll-blog-to-flutter-news-application-part-1-introduction#heading-2-communication-%20entre-l%27application-> and-the-website-via-jekyll-json-posts-api).
 * WORDPRESS: By default, the Rest API is enabled with WordPress sites. However, certain information such as access to authors (and therefore users) can be subject to a verification step. This is why when selecting WordPress as a data source you are optionally asked to enter login information. Those are optionnal information.

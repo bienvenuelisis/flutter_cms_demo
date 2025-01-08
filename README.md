@@ -97,3 +97,6 @@ So feel free to fill issue, who are questions or bugs about the application demo
 Flutter is is a registered trademark by Google. We have no affiliation or agreement with Google. We are just developers in love with the framework ; _as Rémi says_, Dart make our heart Flutter.
 
 Made with 💙 by [bienvenuelisis](https://kokou.theresilient.dev/) and [theresilientdevs](https://theresilient.dev/) from 🇹🇬 .
+
+
+(Only to trigger a new rebuild of the website) //TODO Delete this line.
